@@ -1,16 +1,18 @@
 # 視覺語言模型物體幻覺的簡化復現與證據分析
 
-澳門城市大學「數據科學前沿分析研究」課程作業。作者：張銘洲；任課教師：劉文堅。
+澳門城市大學「數據科學前沿分析研究」課程作業。作者：張銘洲；學號：D26092110377；任課教師：劉文堅。
+電郵：D2609210377@cityu.eu.mo。
 
 本倉庫同時支援 AT3 累積式大作業與 AT4 期末整合報告。兩份報告使用同一組可追溯實驗，分別呈現作業交付與研究論證。
 
-## 報告
+## 報告與閱讀入口
 
-- [AT3 累積式大作業 PDF](reports/AT3-report.pdf) · [可編輯 Word](reports/AT3-report.docx)
-- [AT4 期末整合論文 PDF](paper.pdf) · [可編輯 Word](reports/AT4-paper.docx)
-- [一頁文獻綜述摘要](reports/AT3-literature-summary.pdf)
-- [Agent 比較分析](reports/AT3-agent-analysis.pdf)
+- [期末整合論文 PDF（paper.pdf）](paper.pdf)：依 AT4 指南保存在倉庫根目錄。
 - [文獻知識地圖](literature/knowledge-map.md) · [五篇比較表](literature/comparison.md)
+- [完整實驗指標](results/vcd/metrics.csv) · [逐題預測](results/vcd/predictions.jsonl)
+- [Agent 兩組執行紀錄](agent/runs/) · [比較表](agent/runs/comparison.csv)
+
+可編輯 Word、累積式報告及兩份附件另由課程作業文件提交，不存於此倉庫的主分支。
 
 ## 結果與解讀
 
@@ -30,7 +32,6 @@
 - VCD：學生移植核心公式及擾動排程，實際執行小型模型；不是原論文表格的數值重現。
 - Agent：學生自建來源卡片、固定規則工具迴圈及 validator；未使用 LLM、API 或教師 fixture。尚未取得教師指定來源包及 validator，也未取得教師對替代版本的認可。
 - W01–W10：用於選題與證據記錄方法；教師預設樣例分數沒有混入模型實驗。
-- Codex 協助程式、文獻核對和文稿整理；作者須於提交前核對內容與課程要求。
 
 ## 快速重跑
 
@@ -77,7 +78,6 @@ python -m unittest discover -s tests
 ## 目錄
 
 ```text
-reports/        兩份報告、附件及可編輯來源
 literature/     參考文獻庫、文獻比較表
 src/            資料準備、模型推理、分析與驗證
 data/           固定題目子集及來源 manifest
@@ -88,4 +88,4 @@ docs/           模板格式、方法差異與來源紀錄
 paper.pdf       AT4 論文
 ```
 
-報告使用提供的 FDS 模板：繁體中文、正文兩端對齊、新細明體／Times New Roman、三線表及原款式封面。學號與電郵未提供，保留空欄。倉庫目前為私有，正式提交需確保教師擁有讀取權限。
+報告使用提供的 FDS 模板：繁體中文、正文兩端對齊、新細明體／Times New Roman、三線表及原款式封面。封面及兩份附件均列有姓名、學號及電郵。正文已加入各程式與證據目錄的可點擊 GitHub 連結。

@@ -3,10 +3,23 @@
   "render_engine": "Microsoft Word COM PDF export; pypdfium2 page rendering",
   "reports": {
     "AT3-report": {
-      "pages": 9,
-      "sha256_pdf": "ce8d763c0fff64cbe6eafe67942551e47829a18297961c9bb97c45d199a04e12",
+      "pages": 11,
+      "sha256_pdf": "e07c0e3d851bb445af7a918b327969b0798ab5adc2689b465e21762eccb4128d",
       "sections": 2,
       "equations": 6,
+      "identity_verified": true,
+      "visible_text_checked": true,
+      "github_hyperlinks": [
+        "https://github.com/zhang-mingzhou/research-code",
+        "https://github.com/zhang-mingzhou/research-code/tree/main/literature",
+        "https://github.com/zhang-mingzhou/research-code/tree/main/results/vcd",
+        "https://github.com/zhang-mingzhou/research-code/tree/main/agent",
+        "https://github.com/zhang-mingzhou/research-code/blob/main/literature/knowledge-map.md",
+        "https://github.com/zhang-mingzhou/research-code/tree/main/src",
+        "https://github.com/zhang-mingzhou/research-code/tree/main/agent/runs",
+        "https://github.com/zhang-mingzhou/research-code/blob/main/agent/runs/comparison.csv"
+      ],
+      "references_justified": 10,
       "paragraph_styles": {
         "Normal": "JUSTIFY (3)",
         "Body Text": "None",
@@ -14,10 +27,20 @@
       }
     },
     "AT4-paper": {
-      "pages": 9,
-      "sha256_pdf": "df86433100401bac4a659f23fdf2ad34b41bd1e9e1385d2f3a4f5006f4da89c4",
+      "pages": 10,
+      "sha256_pdf": "285c74ed6cbc458ace8d0ca4e732eed36610a6fd176414c32e5ed03a11761f73",
       "sections": 2,
       "equations": 11,
+      "identity_verified": true,
+      "visible_text_checked": true,
+      "github_hyperlinks": [
+        "https://github.com/zhang-mingzhou/research-code",
+        "https://github.com/zhang-mingzhou/research-code/tree/main/src",
+        "https://github.com/zhang-mingzhou/research-code/blob/main/results/vcd/provenance.json",
+        "https://github.com/zhang-mingzhou/research-code/blob/main/results/vcd/metrics.csv",
+        "https://github.com/zhang-mingzhou/research-code/tree/main/agent/runs"
+      ],
+      "references_justified": 11,
       "paragraph_styles": {
         "Normal": "JUSTIFY (3)",
         "Body Text": "None",
@@ -26,29 +49,39 @@
     },
     "AT3-literature-summary": {
       "pages": 1,
-      "sha256_pdf": "9b84045769b2bab830128fc84ca2693bed769cf7290de11f3a3d38a66fe7d876",
+      "sha256_pdf": "7cd08d46f4e7ce20c5d0a2d17261dc865c2b0f27e6443ad897bb72f5fbcb295f",
       "sections": 1,
       "equations": 0,
+      "identity_verified": true,
+      "visible_text_checked": true,
+      "github_hyperlinks": [
+        "https://github.com/zhang-mingzhou/research-code/tree/main/literature"
+      ],
       "paragraph_styles": {
         "Normal": "JUSTIFY (3)",
-        "Body Text": "JUSTIFY (3)",
-        "First Paragraph": "JUSTIFY (3)"
+        "Body Text": "None",
+        "First Paragraph": "None"
       }
     },
     "AT3-agent-analysis": {
       "pages": 1,
-      "sha256_pdf": "5fced16c4878a35d859fde34a336b36145f1104b1aac073389d532c5e02dd621",
+      "sha256_pdf": "c1b5531e1673f03d0d7ddd6d3f2fd83c40cbc017e922dd29efbf7d82b05b3547",
       "sections": 1,
       "equations": 0,
+      "identity_verified": true,
+      "visible_text_checked": true,
+      "github_hyperlinks": [
+        "https://github.com/zhang-mingzhou/research-code/tree/main/agent/runs"
+      ],
       "paragraph_styles": {
         "Normal": "JUSTIFY (3)",
-        "Body Text": "JUSTIFY (3)",
-        "First Paragraph": "JUSTIFY (3)"
+        "Body Text": "None",
+        "First Paragraph": "None"
       }
     }
   },
   "original_template_sha256": "973d69803408f7795a98cd56e9418ff65aa87c25a967c39b40070fa06dc16672",
-  "cover": "Original logo and layout retained; student number and email left blank.",
+  "cover": "Original logo and layout retained; name, student number and email included. Identity also included in both attachments.",
   "limitations": [
     "Agent is a student substitute, not validated with teacher fixture.",
     "VCD is a small-backbone/subset adaptation, not the original paper numerical reproduction."

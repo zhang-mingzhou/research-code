@@ -9,3 +9,6 @@ models/
 agent/rerun/
 ~$*
 .DS_Store
+
+# Editable reports and attachments remain local; paper.pdf is submitted.
+reports/
