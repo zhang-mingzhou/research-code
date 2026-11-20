@@ -6,4 +6,4 @@
 
 POPE 題目來自 [AoiDragon/POPE](https://github.com/AoiDragon/POPE)，影像來自 COCO 官方 S3；題目、版本與影像雜湊見 `data/manifest.json`。模型來源為 [HuggingFaceTB/SmolVLM-256M-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct)，版本及下載雜湊另見模型 manifest。上游資料及權重各依其原有授權使用，沒有改授權為本專案作品。
 
-Agent 來源卡是本專案對文獻的中文整理，不是論文逐字引文或教師來源包。Word 封面來自使用者提供的課程模板。
+Agent 來源卡是本專案對文獻的中文整理，不是論文逐字引文或教師來源包。

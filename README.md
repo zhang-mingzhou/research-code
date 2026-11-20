@@ -3,16 +3,14 @@
 澳門城市大學「數據科學前沿分析研究」課程作業。作者：張銘洲；學號：D26092110377；任課教師：劉文堅。
 電郵：D2609210377@cityu.eu.mo。
 
-本倉庫同時支援 AT3 累積式大作業與 AT4 期末整合報告。兩份報告使用同一組可追溯實驗，分別呈現作業交付與研究論證。
+本專案研究視覺語言模型的物體幻覺，包含文獻比較、視覺對比解碼實驗與離線工具迴圈分析。
 
 ## 報告與閱讀入口
 
-- [期末整合論文 PDF（paper.pdf）](paper.pdf)：依 AT4 指南保存在倉庫根目錄。
+- [期末整合論文 PDF（paper.pdf）](paper.pdf)。
 - [文獻知識地圖](literature/knowledge-map.md) · [五篇比較表](literature/comparison.md)
 - [完整實驗指標](results/vcd/metrics.csv) · [逐題預測](results/vcd/predictions.jsonl)
 - [Agent 兩組執行紀錄](agent/runs/) · [比較表](agent/runs/comparison.csv)
-
-可編輯 Word、累積式報告及兩份附件另由課程作業文件提交，不存於此倉庫的主分支。
 
 ## 結果與解讀
 
@@ -84,8 +82,6 @@ data/           固定題目子集及來源 manifest
 results/vcd/    真實模型輸出、指標、變更案例與 provenance
 agent/          自建離線來源包、控制器、兩組完整紀錄
 tests/          引用校驗與核心數值測試
-docs/           模板格式、方法差異與來源紀錄
+docs/           方法差異、第三方授權與模型來源紀錄
 paper.pdf       AT4 論文
 ```
-
-報告使用提供的 FDS 模板：繁體中文、正文兩端對齊、新細明體／Times New Roman、三線表及原款式封面。封面及兩份附件均列有姓名、學號及電郵。正文已加入各程式與證據目錄的可點擊 GitHub 連結。

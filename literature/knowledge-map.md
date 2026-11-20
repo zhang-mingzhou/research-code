@@ -24,4 +24,4 @@ flowchart TD
 
 評估、緩解方法與批判性再評估須合併理解：單看 Accuracy，無法區分少猜了不存在的物體，或多辨認了存在的物體。本研究以固定小型資料保留逐題預測，將增益拆成 FP 與 FN；小型樣本不能據此推廣至整體模型能力。
 
-五篇比較表見 [comparison.md](comparison.md)，完整可核對書目見 [references.bib](references.bib)，一頁綜述另隨課程報告提交。
+五篇比較表見 [comparison.md](comparison.md)，完整可核對書目見 [references.bib](references.bib)。
