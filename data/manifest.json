@@ -1,0 +1,83 @@
+{
+  "selection_seed": 20261120,
+  "sampling_unit": "image",
+  "selected_before_inference": true,
+  "image_count": 12,
+  "question_count": 144,
+  "pope_commit": "08d957b917e5a378a2f99d35b6293c536a66298b",
+  "question_sources": [
+    {
+      "split": "random",
+      "url": "https://raw.githubusercontent.com/AoiDragon/POPE/08d957b917e5a378a2f99d35b6293c536a66298b/output/coco/coco_pope_random.json",
+      "sha256": "39533cd3fe102d292d08a3744eb13b1389683b5a6bfcfe8abe95ae52eec8e721"
+    },
+    {
+      "split": "adversarial",
+      "url": "https://raw.githubusercontent.com/AoiDragon/POPE/08d957b917e5a378a2f99d35b6293c536a66298b/output/coco/coco_pope_adversarial.json",
+      "sha256": "d7a73aa1aa77a0fad999f6883e56e94eb5a6b7147d95a669f5eb86bb2caa3543"
+    }
+  ],
+  "images": [
+    {
+      "filename": "COCO_val2014_000000075591.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000075591.jpg",
+      "sha256": "b902c03f6b7794b4e14c836cec0a9e419cf21549b168a0c512dfaaf197e32070"
+    },
+    {
+      "filename": "COCO_val2014_000000097994.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000097994.jpg",
+      "sha256": "bcc6c62fe3750227cd9cb23a1ed86c148f648c6ef825e26434c971880a2ae711"
+    },
+    {
+      "filename": "COCO_val2014_000000153300.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000153300.jpg",
+      "sha256": "4a6325492257bb02d33a22eb534941edb101a91b915004d7a560bfd66109f6d1"
+    },
+    {
+      "filename": "COCO_val2014_000000201148.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000201148.jpg",
+      "sha256": "7aa9c205a4031b3be912dda9b3a37a9c29e88f6a684f38c46b2c4fceeb86d0a9"
+    },
+    {
+      "filename": "COCO_val2014_000000246999.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000246999.jpg",
+      "sha256": "ff62c5d70a49813efd2ca95b26118837a0cddce742b6c5de8b95126cec10131c"
+    },
+    {
+      "filename": "COCO_val2014_000000275863.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000275863.jpg",
+      "sha256": "43130d071ced1749e5ab84012229cc70a52f085684de614c22c0bf49d9a9b513"
+    },
+    {
+      "filename": "COCO_val2014_000000287305.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000287305.jpg",
+      "sha256": "32e8424eeebfe8a5d78a176d9dab6c1a155abe234be83e9613e61ab57ef15be5"
+    },
+    {
+      "filename": "COCO_val2014_000000323752.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000323752.jpg",
+      "sha256": "957c9538f557f42b5dec8a7d0fb076fed9cc2faa8449f206c07bfd5dc14c0826"
+    },
+    {
+      "filename": "COCO_val2014_000000360600.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000360600.jpg",
+      "sha256": "4da0dbd25fd17d7d144e9f118c5b7df473a85356c42cef7ee67567d2dd9bacec"
+    },
+    {
+      "filename": "COCO_val2014_000000429706.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000429706.jpg",
+      "sha256": "6128153c392ba5d0d176d893cba8dcb63a5e6cf5229d4fda397d8083161355e3"
+    },
+    {
+      "filename": "COCO_val2014_000000433574.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000433574.jpg",
+      "sha256": "c89f2804834a12657de388aed07ce7814aa5568685733e339b3a86d33335849c"
+    },
+    {
+      "filename": "COCO_val2014_000000553165.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000553165.jpg",
+      "sha256": "774333197d9554b7063303aff10d52bbec1a952f72e54e5fe3d2a7671bef55aa"
+    }
+  ],
+  "warning": "Small diagnostic subset; not the complete POPE benchmark. Images may overlap model pretraining."
+}

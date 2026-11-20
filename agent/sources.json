@@ -1,0 +1,11 @@
+{
+  "source_pack_type": "student_authored_source_cards",
+  "teacher_approved": false,
+  "sources": [
+    {"id":"S01","title":"POPE 物體幻覺評估","url":"https://aclanthology.org/2023.emnlp-main.20/","tags":["視覺","幻覺","評估"],"evidence":{"E01":"POPE 將影像中的物體存在性轉為是非問題，以不同負例採樣策略檢查物體幻覺。","E02":"物體存在性測試不能完整涵蓋屬性、關係及開放式長文本中的事實錯誤。"},"provenance":"學生依據 Li et al. (EMNLP 2023) 整理的中文摘要，並非論文原句。"},
+    {"id":"S02","title":"VCD 推理階段緩解方法","url":"https://openaccess.thecvf.com/content/CVPR2024/html/Leng_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_through_Visual_Contrastive_CVPR_2024_paper.html","tags":["視覺","幻覺","評估"],"evidence":{"E01":"VCD 對比原始影像與擾動影像的輸出分數，再用原始分佈限制候選詞，無須重新訓練模型。","E02":"方法需額外的擾動影像前向計算；不同模型、資料及解碼設定下的效果須分別驗證。"},"provenance":"學生依據 Leng et al. (CVPR 2024) 與官方程式整理的中文摘要，並非論文原句。"},
+    {"id":"S03","title":"對比解碼增益的批判性再評估","url":"https://proceedings.neurips.cc/paper_files/paper/2025/hash/2f89a23a19d1617e7fb16d4f7a049ce2-Abstract-Conference.html","tags":["視覺","幻覺","評估"],"evidence":{"E01":"後續研究質疑 POPE 的分數增益是否代表幻覺改善，並分析輸出分佈調整與自適應合理性限制的影響。","E02":"評估 VCD 時應同時檢查準確率與 Yes 回答比例，不能僅憑單一分數宣稱視覺依據改善。"},"provenance":"學生依據 Yin et al. (NeurIPS 2025) 整理；E02 為受該文啟發的評估建議，並非論文原句。"},
+    {"id":"D01","title":"W05 偵測閾值練習","url":"local:W05","tags":["偵測","閾值"],"evidence":{"E01":"信心閾值與 NMS 閾值應分開控制。"},"provenance":"課堂作業筆記；干擾來源。"},
+    {"id":"D02","title":"W07 向量相似度練習","url":"local:W07","tags":["向量","檢索"],"evidence":{"E01":"教師手工向量只能用於流程練習，不能宣稱真實模型表現。"},"provenance":"課堂作業筆記；干擾來源。"}
+  ]
+}

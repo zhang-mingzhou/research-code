@@ -1,0 +1,19 @@
+{
+  "version": "student-contract-v1",
+  "task": "搜尋指定離線來源包，讀取三個相關來源，產出一頁含 citation 的研究簡報。",
+  "query": [
+    "視覺",
+    "幻覺",
+    "評估"
+  ],
+  "required_sources": 3,
+  "max_characters": 1200,
+  "required_sections": [
+    "研究問題",
+    "證據整理",
+    "限制與下一步"
+  ],
+  "network_allowed": false,
+  "writes": "selected output directory only",
+  "teacher_approved": false
+}

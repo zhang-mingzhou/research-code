@@ -1,0 +1,140 @@
+{
+  "metrics": [
+    {
+      "split": "random",
+      "method": "regular",
+      "n": 72,
+      "accuracy": 0.8055555555555556,
+      "precision": 1.0,
+      "recall": 0.6111111111111112,
+      "f1": 0.7586206896551725,
+      "yes_ratio": 0.3055555555555556,
+      "invalid": 0,
+      "tp": 22,
+      "fp": 0,
+      "fn": 14,
+      "tn": 36
+    },
+    {
+      "split": "random",
+      "method": "apc_only",
+      "n": 72,
+      "accuracy": 0.8055555555555556,
+      "precision": 1.0,
+      "recall": 0.6111111111111112,
+      "f1": 0.7586206896551725,
+      "yes_ratio": 0.3055555555555556,
+      "invalid": 0,
+      "tp": 22,
+      "fp": 0,
+      "fn": 14,
+      "tn": 36
+    },
+    {
+      "split": "random",
+      "method": "vcd",
+      "n": 72,
+      "accuracy": 0.8194444444444444,
+      "precision": 1.0,
+      "recall": 0.6388888888888888,
+      "f1": 0.7796610169491525,
+      "yes_ratio": 0.3194444444444444,
+      "invalid": 0,
+      "tp": 23,
+      "fp": 0,
+      "fn": 13,
+      "tn": 36
+    },
+    {
+      "split": "adversarial",
+      "method": "regular",
+      "n": 72,
+      "accuracy": 0.7916666666666666,
+      "precision": 0.9565217391304348,
+      "recall": 0.6111111111111112,
+      "f1": 0.7457627118644068,
+      "yes_ratio": 0.3194444444444444,
+      "invalid": 0,
+      "tp": 22,
+      "fp": 1,
+      "fn": 14,
+      "tn": 35
+    },
+    {
+      "split": "adversarial",
+      "method": "apc_only",
+      "n": 72,
+      "accuracy": 0.7916666666666666,
+      "precision": 0.9565217391304348,
+      "recall": 0.6111111111111112,
+      "f1": 0.7457627118644068,
+      "yes_ratio": 0.3194444444444444,
+      "invalid": 0,
+      "tp": 22,
+      "fp": 1,
+      "fn": 14,
+      "tn": 35
+    },
+    {
+      "split": "adversarial",
+      "method": "vcd",
+      "n": 72,
+      "accuracy": 0.8055555555555556,
+      "precision": 0.9583333333333334,
+      "recall": 0.6388888888888888,
+      "f1": 0.7666666666666666,
+      "yes_ratio": 0.3333333333333333,
+      "invalid": 0,
+      "tp": 23,
+      "fp": 1,
+      "fn": 13,
+      "tn": 35
+    }
+  ],
+  "deltas": [
+    {
+      "split": "random",
+      "delta_accuracy": 0.013888888888888888,
+      "cluster_bootstrap_95_low": 0,
+      "cluster_bootstrap_95_high": 0.041666666666666664,
+      "clusters": 12,
+      "replicates": 2000,
+      "interpretation": "Exploratory image-cluster interval; small sample and only one noise seed per image."
+    },
+    {
+      "split": "adversarial",
+      "delta_accuracy": 0.013888888888888888,
+      "cluster_bootstrap_95_low": 0,
+      "cluster_bootstrap_95_high": 0.041666666666666664,
+      "clusters": 12,
+      "replicates": 2000,
+      "interpretation": "Exploratory image-cluster interval; small sample and only one noise seed per image."
+    }
+  ],
+  "changed_answers": [
+    {
+      "split": "random",
+      "sample_id": "random-1675",
+      "image": "COCO_val2014_000000246999.jpg",
+      "question": "Is there a tv in the image?",
+      "label": "yes",
+      "regular": "no",
+      "vcd": "yes",
+      "direction": "improved"
+    },
+    {
+      "split": "adversarial",
+      "sample_id": "adversarial-1675",
+      "image": "COCO_val2014_000000246999.jpg",
+      "question": "Is there a tv in the image?",
+      "label": "yes",
+      "regular": "no",
+      "vcd": "yes",
+      "direction": "improved"
+    }
+  ],
+  "corrected": 2,
+  "damaged": 0,
+  "distinct_images": 12,
+  "predictions_sha256": "801e0df833b9384b2175125f1cd4f0db7397cfb23e64ea951c687f5affce65a8"
+}

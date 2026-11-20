@@ -1,0 +1,14 @@
+{
+  "generated_by": "student_authored_deterministic_tool_loop",
+  "model_used": false,
+  "api_used": false,
+  "network_used": false,
+  "teacher_fixture": false,
+  "teacher_approved": false,
+  "max_steps": 3,
+  "source_pack_sha256": "b4f2b71761a6192e24dd277964d57bf4b930a7f4c40405fab05a20b931257659",
+  "code_sha256": "9f048245de46d9db467389325bf76472cf65722ed4f2af6520b708f923eed0b5",
+  "validator_version": "student-validator-v1",
+  "brief_generation": "deterministic assembly of student-authored source-card paraphrases",
+  "timestamp_utc": "2026-11-20T10:27:03.266248+00:00"
+}

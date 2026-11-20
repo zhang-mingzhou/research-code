@@ -1,0 +1,144 @@
+{"question_id": 127, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a bed in the image?", "label": "yes", "split": "random", "sample_id": "random-127"}
+{"question_id": 128, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a scissors in the image?", "label": "no", "split": "random", "sample_id": "random-128"}
+{"question_id": 129, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a cat in the image?", "label": "yes", "split": "random", "sample_id": "random-129"}
+{"question_id": 130, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a clock in the image?", "label": "no", "split": "random", "sample_id": "random-130"}
+{"question_id": 131, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a book in the image?", "label": "yes", "split": "random", "sample_id": "random-131"}
+{"question_id": 132, "image": "COCO_val2014_000000075591.jpg", "text": "Is there an elephant in the image?", "label": "no", "split": "random", "sample_id": "random-132"}
+{"question_id": 205, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a bird in the image?", "label": "yes", "split": "random", "sample_id": "random-205"}
+{"question_id": 206, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a cow in the image?", "label": "no", "split": "random", "sample_id": "random-206"}
+{"question_id": 207, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-207"}
+{"question_id": 208, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a bus in the image?", "label": "no", "split": "random", "sample_id": "random-208"}
+{"question_id": 209, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a boat in the image?", "label": "yes", "split": "random", "sample_id": "random-209"}
+{"question_id": 210, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a wine glass in the image?", "label": "no", "split": "random", "sample_id": "random-210"}
+{"question_id": 223, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-223"}
+{"question_id": 224, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a mouse in the image?", "label": "no", "split": "random", "sample_id": "random-224"}
+{"question_id": 225, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a fork in the image?", "label": "yes", "split": "random", "sample_id": "random-225"}
+{"question_id": 226, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a bed in the image?", "label": "no", "split": "random", "sample_id": "random-226"}
+{"question_id": 227, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a knife in the image?", "label": "yes", "split": "random", "sample_id": "random-227"}
+{"question_id": 228, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a baseball glove in the image?", "label": "no", "split": "random", "sample_id": "random-228"}
+{"question_id": 577, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-577"}
+{"question_id": 578, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a knife in the image?", "label": "no", "split": "random", "sample_id": "random-578"}
+{"question_id": 579, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a car in the image?", "label": "yes", "split": "random", "sample_id": "random-579"}
+{"question_id": 580, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a couch in the image?", "label": "no", "split": "random", "sample_id": "random-580"}
+{"question_id": 581, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a bus in the image?", "label": "yes", "split": "random", "sample_id": "random-581"}
+{"question_id": 582, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a tv in the image?", "label": "no", "split": "random", "sample_id": "random-582"}
+{"question_id": 1027, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a spoon in the image?", "label": "yes", "split": "random", "sample_id": "random-1027"}
+{"question_id": 1028, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a toaster in the image?", "label": "no", "split": "random", "sample_id": "random-1028"}
+{"question_id": 1029, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a bowl in the image?", "label": "yes", "split": "random", "sample_id": "random-1029"}
+{"question_id": 1030, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a kite in the image?", "label": "no", "split": "random", "sample_id": "random-1030"}
+{"question_id": 1031, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-1031"}
+{"question_id": 1032, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a laptop in the image?", "label": "no", "split": "random", "sample_id": "random-1032"}
+{"question_id": 1159, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a chair in the image?", "label": "yes", "split": "random", "sample_id": "random-1159"}
+{"question_id": 1160, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a pizza in the image?", "label": "no", "split": "random", "sample_id": "random-1160"}
+{"question_id": 1161, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-1161"}
+{"question_id": 1162, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a couch in the image?", "label": "no", "split": "random", "sample_id": "random-1162"}
+{"question_id": 1163, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a bench in the image?", "label": "yes", "split": "random", "sample_id": "random-1163"}
+{"question_id": 1164, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a kite in the image?", "label": "no", "split": "random", "sample_id": "random-1164"}
+{"question_id": 1285, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a traffic light in the image?", "label": "yes", "split": "random", "sample_id": "random-1285"}
+{"question_id": 1286, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a bicycle in the image?", "label": "no", "split": "random", "sample_id": "random-1286"}
+{"question_id": 1287, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-1287"}
+{"question_id": 1288, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a sports ball in the image?", "label": "no", "split": "random", "sample_id": "random-1288"}
+{"question_id": 1289, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a train in the image?", "label": "yes", "split": "random", "sample_id": "random-1289"}
+{"question_id": 1290, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a baseball glove in the image?", "label": "no", "split": "random", "sample_id": "random-1290"}
+{"question_id": 1669, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a clock in the image?", "label": "yes", "split": "random", "sample_id": "random-1669"}
+{"question_id": 1670, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a toothbrush in the image?", "label": "no", "split": "random", "sample_id": "random-1670"}
+{"question_id": 1671, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a laptop in the image?", "label": "yes", "split": "random", "sample_id": "random-1671"}
+{"question_id": 1672, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a kite in the image?", "label": "no", "split": "random", "sample_id": "random-1672"}
+{"question_id": 1673, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a dining table in the image?", "label": "yes", "split": "random", "sample_id": "random-1673"}
+{"question_id": 1674, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a skateboard in the image?", "label": "no", "split": "random", "sample_id": "random-1674"}
+{"question_id": 1675, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a tv in the image?", "label": "yes", "split": "random", "sample_id": "random-1675"}
+{"question_id": 1676, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a hot dog in the image?", "label": "no", "split": "random", "sample_id": "random-1676"}
+{"question_id": 1677, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a clock in the image?", "label": "yes", "split": "random", "sample_id": "random-1677"}
+{"question_id": 1678, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a suitcase in the image?", "label": "no", "split": "random", "sample_id": "random-1678"}
+{"question_id": 1679, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a couch in the image?", "label": "yes", "split": "random", "sample_id": "random-1679"}
+{"question_id": 1680, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a surfboard in the image?", "label": "no", "split": "random", "sample_id": "random-1680"}
+{"question_id": 2083, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-2083"}
+{"question_id": 2084, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a book in the image?", "label": "no", "split": "random", "sample_id": "random-2084"}
+{"question_id": 2085, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a couch in the image?", "label": "yes", "split": "random", "sample_id": "random-2085"}
+{"question_id": 2086, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a stop sign in the image?", "label": "no", "split": "random", "sample_id": "random-2086"}
+{"question_id": 2087, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a dining table in the image?", "label": "yes", "split": "random", "sample_id": "random-2087"}
+{"question_id": 2088, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a cat in the image?", "label": "no", "split": "random", "sample_id": "random-2088"}
+{"question_id": 2641, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a tv in the image?", "label": "yes", "split": "random", "sample_id": "random-2641"}
+{"question_id": 2642, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a bottle in the image?", "label": "no", "split": "random", "sample_id": "random-2642"}
+{"question_id": 2643, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a backpack in the image?", "label": "yes", "split": "random", "sample_id": "random-2643"}
+{"question_id": 2644, "image": "COCO_val2014_000000429706.jpg", "text": "Is there an elephant in the image?", "label": "no", "split": "random", "sample_id": "random-2644"}
+{"question_id": 2645, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-2645"}
+{"question_id": 2646, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a chair in the image?", "label": "no", "split": "random", "sample_id": "random-2646"}
+{"question_id": 2953, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "random", "sample_id": "random-2953"}
+{"question_id": 2954, "image": "COCO_val2014_000000323752.jpg", "text": "Is there an umbrella in the image?", "label": "no", "split": "random", "sample_id": "random-2954"}
+{"question_id": 2955, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a sports ball in the image?", "label": "yes", "split": "random", "sample_id": "random-2955"}
+{"question_id": 2956, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a bus in the image?", "label": "no", "split": "random", "sample_id": "random-2956"}
+{"question_id": 2957, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a tennis racket in the image?", "label": "yes", "split": "random", "sample_id": "random-2957"}
+{"question_id": 2958, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a skis in the image?", "label": "no", "split": "random", "sample_id": "random-2958"}
+{"question_id": 127, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a bed in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-127"}
+{"question_id": 128, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a person in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-128"}
+{"question_id": 129, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a cat in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-129"}
+{"question_id": 130, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a couch in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-130"}
+{"question_id": 131, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a book in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-131"}
+{"question_id": 132, "image": "COCO_val2014_000000075591.jpg", "text": "Is there a tv in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-132"}
+{"question_id": 205, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a bird in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-205"}
+{"question_id": 206, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a handbag in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-206"}
+{"question_id": 207, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-207"}
+{"question_id": 208, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a car in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-208"}
+{"question_id": 209, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a boat in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-209"}
+{"question_id": 210, "image": "COCO_val2014_000000553165.jpg", "text": "Is there a chair in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-210"}
+{"question_id": 223, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-223"}
+{"question_id": 224, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a car in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-224"}
+{"question_id": 225, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a fork in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-225"}
+{"question_id": 226, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a dining table in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-226"}
+{"question_id": 227, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a knife in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-227"}
+{"question_id": 228, "image": "COCO_val2014_000000360600.jpg", "text": "Is there a spoon in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-228"}
+{"question_id": 577, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-577"}
+{"question_id": 578, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a dining table in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-578"}
+{"question_id": 579, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a car in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-579"}
+{"question_id": 580, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a truck in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-580"}
+{"question_id": 581, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a bus in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-581"}
+{"question_id": 582, "image": "COCO_val2014_000000287305.jpg", "text": "Is there a traffic light in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-582"}
+{"question_id": 1027, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a spoon in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1027"}
+{"question_id": 1028, "image": "COCO_val2014_000000153300.jpg", "text": "Is there an oven in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1028"}
+{"question_id": 1029, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a bowl in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1029"}
+{"question_id": 1030, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a banana in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1030"}
+{"question_id": 1031, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1031"}
+{"question_id": 1032, "image": "COCO_val2014_000000153300.jpg", "text": "Is there a car in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1032"}
+{"question_id": 1159, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a chair in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1159"}
+{"question_id": 1160, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a dining table in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1160"}
+{"question_id": 1161, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1161"}
+{"question_id": 1162, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a car in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1162"}
+{"question_id": 1163, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a bench in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1163"}
+{"question_id": 1164, "image": "COCO_val2014_000000275863.jpg", "text": "Is there a backpack in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1164"}
+{"question_id": 1285, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a traffic light in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1285"}
+{"question_id": 1286, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a car in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1286"}
+{"question_id": 1287, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1287"}
+{"question_id": 1288, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a dining table in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1288"}
+{"question_id": 1289, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a train in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1289"}
+{"question_id": 1290, "image": "COCO_val2014_000000201148.jpg", "text": "Is there a truck in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1290"}
+{"question_id": 1669, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a clock in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1669"}
+{"question_id": 1670, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a person in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1670"}
+{"question_id": 1671, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a laptop in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1671"}
+{"question_id": 1672, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a chair in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1672"}
+{"question_id": 1673, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a dining table in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1673"}
+{"question_id": 1674, "image": "COCO_val2014_000000097994.jpg", "text": "Is there a bowl in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1674"}
+{"question_id": 1675, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a tv in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1675"}
+{"question_id": 1676, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a person in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1676"}
+{"question_id": 1677, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a clock in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1677"}
+{"question_id": 1678, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a dining table in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1678"}
+{"question_id": 1679, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a couch in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-1679"}
+{"question_id": 1680, "image": "COCO_val2014_000000246999.jpg", "text": "Is there a book in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-1680"}
+{"question_id": 2083, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2083"}
+{"question_id": 2084, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a car in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2084"}
+{"question_id": 2085, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a couch in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2085"}
+{"question_id": 2086, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a tv in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2086"}
+{"question_id": 2087, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a dining table in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2087"}
+{"question_id": 2088, "image": "COCO_val2014_000000433574.jpg", "text": "Is there a cup in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2088"}
+{"question_id": 2641, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a tv in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2641"}
+{"question_id": 2642, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a dining table in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2642"}
+{"question_id": 2643, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a backpack in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2643"}
+{"question_id": 2644, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a skis in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2644"}
+{"question_id": 2645, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2645"}
+{"question_id": 2646, "image": "COCO_val2014_000000429706.jpg", "text": "Is there a car in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2646"}
+{"question_id": 2953, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a person in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2953"}
+{"question_id": 2954, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a car in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2954"}
+{"question_id": 2955, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a sports ball in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2955"}
+{"question_id": 2956, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a baseball glove in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2956"}
+{"question_id": 2957, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a tennis racket in the image?", "label": "yes", "split": "adversarial", "sample_id": "adversarial-2957"}
+{"question_id": 2958, "image": "COCO_val2014_000000323752.jpg", "text": "Is there a chair in the image?", "label": "no", "split": "adversarial", "sample_id": "adversarial-2958"}

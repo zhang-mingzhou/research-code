@@ -1,0 +1,16 @@
+{
+  "pass": true,
+  "checks": {
+    "brief_exists": true,
+    "three_sources_read": true,
+    "three_sources_cited": true,
+    "citation_ids_valid_and_read": true,
+    "claims_match_source_cards": true,
+    "length_within_limit": true,
+    "sections_present": true
+  },
+  "read_count": 3,
+  "citation_count": 6,
+  "characters": 775,
+  "scope": "Checks source-card consistency and final state; does not independently verify original papers or scientific truth."
+}

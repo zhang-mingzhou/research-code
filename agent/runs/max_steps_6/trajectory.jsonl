@@ -1,0 +1,6 @@
+{"step": 1, "tool": "search", "arguments": {"query": ["視覺", "幻覺", "評估"]}, "observation_id": "o1", "state_after": "read"}
+{"step": 2, "tool": "read", "arguments": {"source_id": "S01"}, "observation_id": "o2", "state_after": "read"}
+{"step": 3, "tool": "read", "arguments": {"source_id": "S02"}, "observation_id": "o3", "state_after": "read"}
+{"step": 4, "tool": "read", "arguments": {"source_id": "S03"}, "observation_id": "o4", "state_after": "compose"}
+{"step": 5, "tool": "compose", "arguments": {}, "observation_id": "o5", "state_after": "validate"}
+{"step": 6, "tool": "validate", "arguments": {}, "observation_id": "o6", "state_after": "done"}

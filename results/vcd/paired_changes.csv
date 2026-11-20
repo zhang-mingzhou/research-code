@@ -1,0 +1,3 @@
+split,sample_id,image,question,label,regular,vcd,direction
+random,random-1675,COCO_val2014_000000246999.jpg,Is there a tv in the image?,yes,no,yes,improved
+adversarial,adversarial-1675,COCO_val2014_000000246999.jpg,Is there a tv in the image?,yes,no,yes,improved

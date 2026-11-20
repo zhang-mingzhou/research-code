@@ -1,0 +1,16 @@
+{
+  "search": {
+    "query": "list[str]",
+    "returns": "ranked source metadata"
+  },
+  "read": {
+    "source_id": "allowlisted source ID",
+    "returns": "complete source card"
+  },
+  "compose": {
+    "returns": "brief built only from observed evidence"
+  },
+  "validate": {
+    "returns": "final-state checks"
+  }
+}
